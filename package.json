@@ -3,7 +3,7 @@
   "name": "developerfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://harman2607.github.io/portfolio",
+  "homepage": "http://harman2607.github.io/my-portfolio",
   "dependencies": {
     "colorthief": "^2.3.0",
     "enzyme": "^3.11.0",
